@@ -1,10 +1,10 @@
-# frozen_string_literal: true
+# Gemfile
 
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2"
 
-# gem "rails"
+
 group :jekyll_plugins do
     gem "jekyll-sitemap"
     gem "jekyll-feed"
