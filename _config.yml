@@ -1,4 +1,6 @@
 title: "test jekyll RD"
+baseurl: "/jekyll_tutorial" # the subpath of your site
+url: "https://rdjarbeng.github.io" # the base hostname & protocol for your site
 collections:
   authors:
     output: true
